@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oPrvocislach", "oPrvocislac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oStvoruholnikoch", "oStvoruholnikoch\oStvoruholnikoch.csproj", "{45CCDF04-0FEF-4F62-9E4E-7107E977494B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oJulkinejKalkulacke", "oJulkinejKalkulacke\oJulkinejKalkulacke.csproj", "{DC20543D-69B0-4DB9-840B-18656A1DCD0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +54,10 @@ Global
 		{45CCDF04-0FEF-4F62-9E4E-7107E977494B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45CCDF04-0FEF-4F62-9E4E-7107E977494B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45CCDF04-0FEF-4F62-9E4E-7107E977494B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC20543D-69B0-4DB9-840B-18656A1DCD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC20543D-69B0-4DB9-840B-18656A1DCD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC20543D-69B0-4DB9-840B-18656A1DCD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC20543D-69B0-4DB9-840B-18656A1DCD0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
