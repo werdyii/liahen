@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace oJulkinejKalkulacke
+namespace liahen
 {
-    class Program
+    class oJulkinejKalkulacke
     {
         static void Main(string[] args)
         {

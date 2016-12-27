@@ -69,6 +69,7 @@ namespace liahen
                 }
                 // spocitaj prvocisla
                 j = 0;
+                if (Min < 2) Min = 2;
                 for (i = Min; i < (Max + 1); i++) { if (Pole[i]) { j++; } }
                 // vypis pocet prvocisel v intervale
                 Console.WriteLine(j.ToString());
