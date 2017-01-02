@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oStvoruholnikoch", "oStvoru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oJulkinejKalkulacke", "oJulkinejKalkulacke\oJulkinejKalkulacke.csproj", "{DC20543D-69B0-4DB9-840B-18656A1DCD0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oZdravotnomStredisku", "oZdravotnomStredisku\oZdravotnomStredisku.csproj", "{DCDA841E-7216-4D3F-B779-671DBF2F5739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,6 +60,10 @@ Global
 		{DC20543D-69B0-4DB9-840B-18656A1DCD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC20543D-69B0-4DB9-840B-18656A1DCD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC20543D-69B0-4DB9-840B-18656A1DCD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDA841E-7216-4D3F-B779-671DBF2F5739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDA841E-7216-4D3F-B779-671DBF2F5739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDA841E-7216-4D3F-B779-671DBF2F5739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDA841E-7216-4D3F-B779-671DBF2F5739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
