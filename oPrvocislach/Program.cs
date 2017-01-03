@@ -18,10 +18,10 @@ namespace liahen
 
                 //nacitane retazce konvertuj na cisla
                 int Min = int.Parse(interval[0]);
-                int Max = int.Parse(interval[1]);
+                int Max = int.Parse(interval[1]) + 1;
 
                 //definuj logicke pole
-                bool[] Pole = new bool[Max + 1];
+                bool[] Pole = new bool[Max];
                 int i, j;
                 //nastav interval ze su vsetky cisla v intervale prvocisla
                 for (i = 2; i < (Max + 1); i++)
